@@ -1,6 +1,6 @@
 # PROYECTO SPRINT 8
 ## Automatización de pruebas con la API "Urban Grocers"
-Por: Bijou González
+Por: Karen Lozano
 
 Este proyecto tiene como ojetivo automatizar pruebas para el endpoint de creación de kits de la API de Urban Grocers, validando específicamente el parámetro "name".
 Se desarrollaron pruebas positivas y negativas basadas en la lista de comprobación proporcionada por el bootcamp, con el fin de verificar el comportamiento del sistema ante distintos tipos de entrada.
